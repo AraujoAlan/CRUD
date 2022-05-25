@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "Alan Araujo",
+    "cpf": "12345678911",
+    "sexo": "M",
+    "endereco": "rua x numero 1"
+  },
+  {
+    "id": "2",
+    "name": "Ketlhenn Araujo",
+    "cpf": "12345678910",
+    "sexo": "S",
+    "endereco": "rua y numero 2"
+  }
+]
